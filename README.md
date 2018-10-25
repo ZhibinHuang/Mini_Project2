@@ -5,3 +5,4 @@
 2. The photos of training set is 1328 and testing set is 332. The batch size is 32, image size is 64*64*3 by pre-processing from the photos. The validation rate is 0.2 and the drop-out rate is 0.3 in the model.
 
 3. The sturcture of the model is shown below:
+https://user-images.githubusercontent.com/43126280/47536272-2bb3eb80-d88d-11e8-8c93-2e764897feaa.jpeg
