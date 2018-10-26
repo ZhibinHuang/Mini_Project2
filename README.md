@@ -15,10 +15,15 @@ https://github.com/ZhibinHuang/Mini_Project2/issues/1#issue-374173005
    
 5. If you have questions, please contact me: hzhibin@bu.edu
 
+
+
 References:
 
 Marcus, G. (2018). Deep learning: A critical appraisal. arXiv preprint arXiv:1801.00631.
+
 Besold, T. R., Garcez, A. D., Bader, S., Bowman, H., Domingos, P., Hitzler, P. et al. (2017).Neural-Symbolic Learning and Reasoning: A Survey and Interpretation. arXiv, cs.AI. 
+
 Bošnjak, M., Rocktäschel, T., Naradowsky, J., & Riedel, S. (2016). Programming with a Differentiable Forth Interpreter. arXiv.
 Bottou, L. (2015). Two big challenges in machine learning. Proceedings from 32nd InternationalConference on Machine Learning.
+
 Bowman, S. R., Angeli, G., Potts, C., & Manning, C. D. (2015). A large annotated corpus for learning natural language inference. arXiv, cs.
