@@ -7,11 +7,11 @@
 3. The sturcture of the first model is shown below:
 https://github.com/ZhibinHuang/Mini_Project2/issues/1#issue-374173005
 
-4.1 The training result of the first module is:
+4. The training result of the first module is:
 
-4.2 The training result of the second module is:
+4. The training result of the second module is:
 
-4.3 The first one has 3 convolutional layers while the second one has 1 convolutional layer is the only difference between the     two different modules. We can clearly see that
+4. The first one has 3 convolutional layers while the second one has 1 convolutional layer is the only difference between the     two different modules. We can clearly see that
 
 5. Compare between two different systems: 
    Generlly speaking, different systems have different module with different structure. How to evaluate a system it's usually based on some simensions such as the stability, accuracy, speed and so on. Base on the literature reviewed, I found the following aspects about comparing two different systems. 
