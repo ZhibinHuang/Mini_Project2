@@ -8,21 +8,35 @@
 https://github.com/ZhibinHuang/Mini_Project2/issues/1#issue-374173005
 
 4. The training result of the first module is:
+
    Training Epoch 221--- iterations: 9020--- Training Accuracy:  96.9%, Validation Accuracy:  93.8%,  Validation Loss: 0.137
+   
    Training Epoch 222--- iterations: 9061--- Training Accuracy:  96.9%, Validation Accuracy:  93.8%,  Validation Loss: 0.073
+   
    Training Epoch 223--- iterations: 9102--- Training Accuracy: 100.0%, Validation Accuracy:  84.4%,  Validation Loss: 0.588
+   
    Training Epoch 224--- iterations: 9143--- Training Accuracy:  96.9%, Validation Accuracy: 100.0%,  Validation Loss: 0.373
+   
    Training Epoch 225--- iterations: 9184--- Training Accuracy:  96.9%, Validation Accuracy:  93.8%,  Validation Loss: 0.099
+   
    Training Epoch 226--- iterations: 9225--- Training Accuracy:  96.9%, Validation Accuracy:  93.8%,  Validation Loss: 0.065
+   
    Training Epoch 227--- iterations: 9266--- Training Accuracy: 100.0%, Validation Accuracy:  90.6%,  Validation Loss: 0.008
 
 5. The training result of the second module is:
+
    Training Epoch 221--- iterations: 9020--- Training Accuracy:  81.2%, Validation Accuracy:  93.8%,  Validation Loss: 0.002
+   
    Training Epoch 222--- iterations: 9061--- Training Accuracy:  93.8%, Validation Accuracy: 100.0%,  Validation Loss: 0.059
+   
    Training Epoch 223--- iterations: 9102--- Training Accuracy:  93.8%, Validation Accuracy:  87.5%,  Validation Loss: 0.125
+   
    Training Epoch 224--- iterations: 9143--- Training Accuracy:  93.8%, Validation Accuracy:  93.8%,  Validation Loss: 0.198
+   
    Training Epoch 225--- iterations: 9184--- Training Accuracy:  87.5%, Validation Accuracy:  93.8%,  Validation Loss: 0.044
+   
    Training Epoch 226--- iterations: 9225--- Training Accuracy:  93.8%, Validation Accuracy:  81.2%,  Validation Loss: 0.340
+   
    Training Epoch 227--- iterations: 9266--- Training Accuracy:  93.8%, Validation Accuracy:  93.8%,  Validation Loss: 0.018
 
 
