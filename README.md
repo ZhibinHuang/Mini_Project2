@@ -7,7 +7,7 @@
 3. The sturcture of the first model is shown below:
 https://github.com/ZhibinHuang/Mini_Project2/issues/1#issue-374173005
 
-4. The training result of the first module is:
+4. The training result of the first module is: (you can also see it on the issue 3)
 
    Training Epoch 221--- iterations: 9020--- Training Accuracy:  96.9%, Validation Accuracy:  93.8%,  Validation Loss: 0.137
    
